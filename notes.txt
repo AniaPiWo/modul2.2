@@ -1,0 +1,2 @@
+npx express-generator --view=ejs nazwa-projektu
+npm install dotenv
